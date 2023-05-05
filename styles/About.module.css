@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Special+Elite&display=swap');
+
+.container {
+    /* background-color: rgba(255, 68, 0, 0.436); */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 100px;
+}
+
+.aboutHero {
+    /* background-color: rgba(255, 0, 0, 0.213); */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.aboutHero {
+    align-items: center;
+    justify-content: center;
+    width: 50vw;
+    min-width: 50vw;
+    text-align: center;
+}
+
+.aboutHero h1 {
+    margin: 0;
+    font-family: "Gutenberg";
+    font-size: 45px;
+    padding-top: 5px;
+}
+
+.aboutHero h3 {
+    margin: 0;
+    font-family: "Gutenberg";
+    font-size: 24px;
+}
+
+.aboutHero p {
+    padding-top: 20px;
+    margin: 0;
+    font-size: 18px;
+    font-family: 'Special Elite', cursive;
+    line-height: 30px;
+}
